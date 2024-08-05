@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">Software Developer | Web Developer</h3>
 
-<p align="left" width="200" height="200"> <img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1722862870~exp=1722866470~hmac=6e33c2baed209575ee5f08ec61328a4364092a6bce77de56f1c548425c13aecd&w=740" alt="deepak19d" /> </p>
+<p> < align="left" width="200" height="200" img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1722862870~exp=1722866470~hmac=6e33c2baed209575ee5f08ec61328a4364092a6bce77de56f1c548425c13aecd&w=740" alt="deepak19d" /> </p>
 
 - 📫 How to reach me **deepak820j@gmail.com**
 

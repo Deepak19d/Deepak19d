@@ -2,19 +2,17 @@
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">Software Developer | Web Developer</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-
-<p align="left"> <img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1722862870~exp=1722866470~hmac=6e33c2baed209575ee5f08ec61328a4364092a6bce77de56f1c548425c13aecd&w=740" alt="deepak19d" /> </p>
+<p align="left" width="400"> <img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1722862870~exp=1722866470~hmac=6e33c2baed209575ee5f08ec61328a4364092a6bce77de56f1c548425c13aecd&w=740" alt="deepak19d" /> </p>
 
 - 📫 How to reach me **deepak820j@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@deepakkumar19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@deepakkumar19" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepak-kumar-7464951b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-kumar-7464951b1/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepak820/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-kumar-7464951b1/" height="30" width="40" /></a>
 <a href="https://instagram.com/deepak._.kumar____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepak._.kumar____" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deepak_kumar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepak_kumar_" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Deepak_kumar_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepak_kumar_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

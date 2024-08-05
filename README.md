@@ -1,7 +1,5 @@
-# Deepak Kumar
-
-<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">Software Developer | Web Developer</h3>
+<h1 align="center">Hi 😊, I'm Deepak Kumar</h1>
+<h3 align="center">| Software Developer |</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=deepak19d)](https://github.com/deepak19d/github-profile-trophy)
 
@@ -9,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@deepakkumar19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@deepakkumar19" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/deepak820/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-kumar-7464951b1/" height="30" width="40" /></a>
 <a href="https://instagram.com/deepak._.kumar____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepak._.kumar____" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Deepak_kumar_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepak_kumar_" height="30" width="40" /></a>

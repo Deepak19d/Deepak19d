@@ -7,13 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak19d&label=Profile%20views&color=0e75b6&style=flat" alt="deepak19d" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
-
-- 💬 Ask me about **Data structure and Algorithm**
-
-- 📫 How to reach me **deepak19122002@gmail.com**
-
-- ⚡ Fun fact **Funny**
+- 📫 How to reach me **deepak820j@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
